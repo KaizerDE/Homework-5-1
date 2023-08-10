@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+table{
+    margin: 100px auto;
+    border: 2px solid rgb(228, 177, 9);
+    border-collapse: collapse;
+    font-family: Oswald;
+    width: 80%;
+    height: 400px;
+}
+
+td, th{
+    border: 1px solid rgb(228, 177, 9);
+    padding: 20px;
+}
+
+.blue {
+    background: rgb(14, 7, 122);
+    color: white;
+    font-weight: bold;
+}
+
+thead{
+    background: yellow;
+}
+
+.gold {
+    background: rgb(238, 137, 6);
+    color: black;
+}
+
+.yellow{
+    background-color: rgb(228, 177, 9);
+    color: black;
+}
+
